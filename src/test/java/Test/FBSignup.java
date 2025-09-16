@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 public class FBSignup {
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome", "chrome.exe");
-				
+				//driver 
 				WebDriver driver = new FirefoxDriver();
 				driver.get("https://www.facebook.com/");
 				
